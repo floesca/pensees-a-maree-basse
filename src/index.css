@@ -1,0 +1,25 @@
+:root {
+  --cream: #f6f1e8;
+  --grey: #EDE9E2;
+  --sage: #8faf93;
+  --sea: #6f8f9e;
+  --text: #2f3336;
+  min-height: 100vh;
+}
+
+body {
+  background: var(--cream);
+  color: var(--text);
+}
+
+h1, h2, p {
+  font-family: Cormorant Garamond;
+}
+
+h1 {
+  font-size: 64px;
+}
+
+h2 {
+  font-size: 24px;
+}
