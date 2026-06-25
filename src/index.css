@@ -12,7 +12,7 @@ body {
   color: var(--text);
 }
 
-h1, h2, p {
+h1, h2 {
   font-family: Cormorant Garamond;
 }
 
@@ -22,4 +22,8 @@ h1 {
 
 h2 {
   font-size: 24px;
+}
+
+p {
+  font-family: Inter;
 }
