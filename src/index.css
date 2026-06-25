@@ -27,3 +27,8 @@ h2 {
 p {
   font-family: Inter;
 }
+
+h3 {
+  color: var(--sage);
+  font-size: 20px;
+}
